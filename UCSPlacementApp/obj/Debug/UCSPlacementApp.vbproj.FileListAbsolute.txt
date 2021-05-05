@@ -1,0 +1,12 @@
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\bin\Debug\UCSPlacementApp.dll
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\bin\Debug\UCSPlacementApp.pdb
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\bin\Debug\UCSPlacementApp.xml
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.vbproj.ResolveComReference.cache
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.vbproj.CoreCompileInputs.cache
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.dll
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.xml
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.pdb
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.Resources.resources
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.vbproj.GenerateResource.cache
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.frmMaindlg.resources
+C:\Users\msjones\source\repos\UCSPlacementApp\UCSPlacementApp\obj\Debug\UCSPlacementApp.vbprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="UCSPlacementApp" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{bcd64a61-3615-409e-ad9f-3263c862e422}" progid="UCSPlacementApp.StandardAddInServer" threadingModel="Both" name="UCSPlacementApp.UCSPlacementApp.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="UCSPlacementApp.dll" hashalg="SHA1"></file>
+</assembly>

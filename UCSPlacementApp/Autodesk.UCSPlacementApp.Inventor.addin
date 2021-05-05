@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor 2018 (Version 22.0)-->
+  <ClassId>{bcd64a61-3615-409e-ad9f-3263c862e422}</ClassId>
+  <ClientId>{bcd64a61-3615-409e-ad9f-3263c862e422}</ClientId>
+  <DisplayName>UCS Placement App</DisplayName>
+  <Description>Inventor add-in to facilitate placement of a user coordinate system (UCS).</Description>
+  <Assembly>UCSPlacementApp.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
